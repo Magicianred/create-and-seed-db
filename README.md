@@ -4,6 +4,6 @@ Completed as part of the App Academy curriculum. Implementation by Juliet Shafto
 ## Project Description
 Seed a Farm database with seed files full of _seeds_!
 ## Project Status
-- [ ] Create Database
-- [ ] Create seed files
-- [ ] Seed database
+- [x] Create Database
+- [x] Create seed files
+- [x] Seed database
